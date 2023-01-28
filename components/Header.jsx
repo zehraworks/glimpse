@@ -4,7 +4,7 @@ import logo from "../public/glimpse.png";
 
 export default function Header() {
   return (
-    <div className="container w-2/3 h-32 flex flex-col items-center justify-center bg-slate-900 my-4 p-2 rounded-lg">
+    <div className="container w-full h-32 flex flex-col items-center justify-center bg-slate-900 my-4 p-2 rounded-lg">
       <Link href="/" className="flex flex-col items-center">
         <Image alt="logo" src={logo} height={50} />
         <h1 className="text-2xl text-slate-200">Z's Blog</h1>
