@@ -23,7 +23,10 @@ export default function PostPage({ params }) {
   const post = getPostContent(slug);
   return (
     <div>
-      <h1 className="text-2xl font-bold text-sky-500">{post.data.title}</h1>
+      <div className="flex flex-col justify-center items-center my-6">
+        <h1 className="text-3xl font-bold text-slate-800">{post.data.title}</h1>
+        <p className=" text-lg text-slate-400">{post.data.date}</p>
+      </div>
       <article className="prose lg:prose-xl">
         <Markdown>{post.content}</Markdown>
       </article>
