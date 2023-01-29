@@ -1,6 +1,6 @@
 ---
-title: "Post 1"
-subtitle: "Post 1 falan filan"
+title: "Emo Memo"
+subtitle: "Memory card game built with Emoji API"
 date: "2020-12-27"
 ---
 

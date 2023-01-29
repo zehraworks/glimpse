@@ -1,10 +1,10 @@
 ---
-title: "Post 2"
-subtitle: "Post 2 falan filan"
+title: "Reservation App"
+subtitle: "Helps to manage your reservations effortlessly"
 date: "2021-18-24"
 ---
 
-# Reservation App
+## Reservation App
 
 ### Helps to manage your reservations effortlessly
 

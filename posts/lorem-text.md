@@ -1,6 +1,6 @@
 ---
-title: "Post 4"
-subtitle: "Post 4 falan filan"
+title: "Lorem"
+subtitle: "Lorem ipsum dolor"
 date: "2023-10-30"
 ---
 
